@@ -7,7 +7,7 @@ PM_TEXT = """
 
 **✦ » ɪ sᴜᴘᴘᴏʀᴛ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ I ᴄᴀɴ ᴅᴏ.**
 
-**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](http://t.me/ll_ALPHA_BABY_lll)**
+**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐓 ꯭𝐎 ꯭𝐗 ꯭𝐈 ꯭𝐂 ꯭ 𝐏 ꯭𝐀 ꯭𝐏 ꯭𝐀 ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](http://t.me/lll_TOXICC_PAPA_lll)**
 """
 
 HACK_TEXT = """
@@ -45,8 +45,8 @@ info = """
 PM_BUTTON = IKM([
     [IKB("•─╼⃝𖠁 𝐇ᴀᴄᴋ 𖠁⃝╾─•", callback_data="hack_btn")],
 [
-    IKB("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/ll_ALPHA_BABY_lll"),
-    IKB("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="http://t.me/purvi_support")
+    IKB("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/lll_TOXICC_PAPA_lll"),
+    IKB("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="https://t.me/KITTUU_UPDATES")
 ]
 ])
 
@@ -82,5 +82,5 @@ LOG_TEXT = """
 
  ❥︎ ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ ᴀɴʏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴜsɪɴɢ 
  ❥︎ ᴛʜᴇɪʀ ᴘʏʀᴏɢʀᴀᴍ ᴏʀ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ.
- ❥︎ ᴏᴡɴᴇʀ : 𝐀ʟᴘʜᴀ 𝐁ᴀʙʏ
+ ❥︎ ᴏᴡɴᴇʀ : 𝐓ᴏxɪᴄ 𝐏ᴀᴘᴀ
 """
