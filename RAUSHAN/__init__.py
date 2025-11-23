@@ -46,4 +46,4 @@ async def RAUSHAN():
 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(TOXIC())    
+loop.run_until_complete(RAUSHAN())    
